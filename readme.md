@@ -1,6 +1,6 @@
 ## RTPageSlideView
 
-This is a slide page componenet for iOS development.
+This is a slide page componenet for iOS development, ARC only.
 
 It works just like `UITableView`.
 
