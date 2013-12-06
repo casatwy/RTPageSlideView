@@ -287,7 +287,7 @@ CustomPageSlideViewCell.h
 CustomPageSlideViewCell.m
 
 ```
-@implementation HZSearchPropertyDetailSlidePageCell
+@implementation CustomPageSlideViewCell
 
 - (void)configWithData:(NSDictionary *)celldata
 {
